@@ -1,0 +1,72 @@
+.floatL{
+	float: left;
+}
+
+.background1 {
+	background-color: #ff7ff00;
+	background-color: #882CEC;
+	background-blend-mode: multiply;
+	background: rgb(255,127,0);
+	background: linear-gradient(90deg, rgba(255,127,0,1) 0%, rgba(136,194,236,1) 100%);
+}
+
+body{
+	background: rgb(255,127,0);
+	background: linear-gradient(90deg, rgba(255,127,0,1) 0%, rgba(136,194,236,1) 100%);
+}
+
+.background3 {
+  background-image: url("Images/Judgement.jpg");
+
+  min-height: 500px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+	color: #021B2D ;
+	text-shadow: 1px 1px 2px #627BBD;
+	font-family: 'Special Elite', cursive;
+	padding-top: 30px;
+	font-size:10vw;
+}
+
+
+.Box{
+	margin: 0% auto; 
+	background-color:#021B2D;
+	text-align: center;
+	color: white;
+	background-color: rgb(255,127,0);
+	background: linear-gradient(90deg, rgba(255,127,0,1) 0%, rgba(136,194,236,1) 100%);
+}
+
+.BoxText{
+	color: white;
+	background-color: rgb(255,127,0);
+	background: linear-gradient(90deg, rgba(255,127,0,1) 0%, rgba(136,194,236,1) 100%);
+	font-size: 50px;
+}
+
+p{
+	font-family: 'Grenze Gotisch', cursive;
+	font-weight: 300;
+	font-size: 20px;
+	color: white;
+}
+
+.bordertext{
+	border-style: double;
+	border-width: 5px;
+	background-image: url("Images/textbackground.jpg");
+}
+
+li, ui{
+	font-family: 'Grenze Gotisch', cursive;
+	font-weight: 500;
+	font-size: 30px;
+}
+
